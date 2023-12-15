@@ -23,6 +23,9 @@ As for the implementation detail, In this lab, we stored the data on Google Driv
 ![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/Comparison%20between%20models.png)
 (c) Output comparison with video input (Whisper-small & Wisper-tiny):
 ![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/Output%20comparison.png)
+ture words:
+![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/example_video_words.png)
+
 
 ## Interface URL:
 - `microphone transcription UI`: https://80d0514c6249d9a923.gradio.live/
