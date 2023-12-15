@@ -17,7 +17,12 @@ As for the implementation detail, In this lab, we stored the data on Google Driv
  - Process the data with different methods like cutting each sample into several clips and then shuffling them and re-combining them together.
 
 ## Model Result Visualization
-![image]()
+(a) Data size comparison (9588 & 5811):
+![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/Comparison%20between%20data%20sizes.png)
+(b) Model choice comparison (Whisper-small & Wisper-tiny):
+![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/Comparison%20between%20models.png)
+(c) Output comparison with video input (Whisper-small & Wisper-tiny):
+![image](https://github.com/Antares28/id2223_kth_lab2/blob/main/img/Output%20comparison.png)
 
 ## Interface URL:
 - `microphone transcription UI`: https://80d0514c6249d9a923.gradio.live/
